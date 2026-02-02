@@ -1,5 +1,10 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+    * esta clase se encarga de filtrar a los empleados basandose 
+    * en la edad y identifica los menores de 25
+    */
+
 import java.util.ArrayList;
 import java.util.List;
 
