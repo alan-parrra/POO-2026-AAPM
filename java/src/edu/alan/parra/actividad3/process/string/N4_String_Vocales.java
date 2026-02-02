@@ -1,5 +1,9 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.string;
 
+/* recibe y luego calcula el
+* numero de vocales
+    */
+
 public class N4_String_Vocales {
 
     public int contarVocales(String texto) {
