@@ -1,5 +1,11 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+* este se enfoca en
+* analizar todos los
+* salarios y luego sacar el promedio
+*/
+
 import java.util.List;
 
 public class N8_Empleado_Salario_Promedio {
