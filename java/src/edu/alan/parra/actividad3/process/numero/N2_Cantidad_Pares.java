@@ -1,5 +1,10 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.numero;
 
+/** 
+* este analiza los datos
+* y luego checa y cuenta cuantos son pares
+    */
+
 public class N2_Cantidad_Pares {
 
     public int contarPares(int[] numeros) {
