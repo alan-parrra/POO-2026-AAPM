@@ -1,5 +1,11 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+* este checa que empleado con la
+* edad menos comun tiene
+* el menor salario
+*/
+
 import java.util.List;
 
 public class N15_Empleado_Menor_Salario_Edad_Inusual {
