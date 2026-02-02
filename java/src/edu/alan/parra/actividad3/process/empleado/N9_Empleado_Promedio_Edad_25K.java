@@ -1,5 +1,11 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+* este checa el salario y calcula el
+* promedio de la edad de todos los que
+* ganen mas de 25k 
+*/
+
 import java.util.List;
 
 public class N9_Empleado_Promedio_Edad_25K {
