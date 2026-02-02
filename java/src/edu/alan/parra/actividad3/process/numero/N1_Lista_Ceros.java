@@ -1,5 +1,9 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.numero;
 
+/**
+* clase que mueve los ceros al final de la lista
+*/
+
 public class N1_Lista_Ceros {
 
     public int[] moverceros(int[] numeros) {
