@@ -1,5 +1,10 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+*este analiza de que departamento es cada persona
+* y cuando una persona es de sistema lo cuenta 
+*/
+
 import java.util.List;
 
 public class N11_Empleado_Departamento_Sistemas {
