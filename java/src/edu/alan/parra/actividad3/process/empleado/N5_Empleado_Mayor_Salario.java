@@ -1,5 +1,11 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+* este se basa en 
+* analizar los salarios y 
+* checar el mas alto
+*/
+
 import java.util.List;
 
 public class N5_Empleado_Mayor_Salario {
