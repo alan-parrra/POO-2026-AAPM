@@ -1,5 +1,9 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.string;
 
+/**
+* clase que se encarga de invertir una cadena de texto
+    */
+
 public class N12_String_Cadena_Invertida {
 
     public String invertirCadena(String texto) {
