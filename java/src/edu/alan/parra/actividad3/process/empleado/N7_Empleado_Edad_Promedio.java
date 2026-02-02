@@ -1,5 +1,10 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+* este saca el promedio
+* con la edad de todos los empleados
+*/
+
 import java.util.List;
 
 public class N7_Empleado_Edad_Promedio {
