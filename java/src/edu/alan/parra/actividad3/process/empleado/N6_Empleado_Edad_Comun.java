@@ -1,5 +1,11 @@
 package edu.alan.parra.java.src.edu.alan.parra.actividad3.process.empleado;
 
+/**
+* este se enfoca en
+* encontrar la edad mas
+* comun
+*/
+
 import java.util.List;
 
 public class N6_Empleado_Edad_Comun {
