@@ -1,22 +1,32 @@
 package edu.alan.parra.actividad1.process;
 
-public class Vehiculos {
-
+public abstract class Vehiculo {
     private String nombre;
-    private String tipo;
     private double precio;
 
-    public Vehiculos(String nombre, String tipo, double precio) {
+    public Vehiculo(String nombre, double precio) {
         this.nombre = nombre;
-        this.tipo = tipo;
         this.precio = precio;
     }
 
+    public abstract String getTipo();
+
     public String getDescripcion() {
-        return nombre + " | Tipo: " + tipo + " | Precio: $" + precio;
+        return nombre + " | Tipo: " + getTipo() + " | Precio: $" + precio;
     }
 
     public double getPrecio() {
         return precio;
+    }
+}
+
+class Coche extends Vehiculo {
+    public Coche(String nombre, double precio) {
+        super(nombre, precio);
+    }
+
+    @Override
+    public String getTipo() {
+        return "Coche";
     }
 }
